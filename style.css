@@ -1,0 +1,14 @@
+body {
+      margin: auto;
+      height: 100vh;
+      background-color: #003c33;
+
+}
+
+h1 {
+      margin: auto 0px;
+      vertical-align: middle;
+      height: 100vh;
+
+      font-weight: 800;
+}
